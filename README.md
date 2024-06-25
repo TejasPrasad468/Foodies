@@ -33,7 +33,7 @@ Contributions are welcome! If you have any suggestions, improvements, or feature
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Demo:
-Explore a live demo of the website at [foodies-demo.com](http://www.foodies-demo.com)
+Explore a live demo of the website at [foodies-demo.com](https://foodies-eosin-beta.vercel.app/)
 
 ---
 
